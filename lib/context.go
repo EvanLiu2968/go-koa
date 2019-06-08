@@ -1,0 +1,5 @@
+package koa
+
+func Context() {
+	
+}

@@ -1,0 +1,5 @@
+package koa
+
+func App() {
+
+}
