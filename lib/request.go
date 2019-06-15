@@ -1,5 +1,6 @@
 package koa
 
-func Request() {
-	
+type Request struct {
+	header map
+	query map
 }

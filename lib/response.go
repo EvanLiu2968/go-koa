@@ -1,5 +1,5 @@
 package koa
 
-func Response() {
-	
+type Response struct {
+	body string
 }

@@ -1,5 +1,5 @@
 package koa
 
-func Context() {
-	
+type Context struct {
+	body string
 }
